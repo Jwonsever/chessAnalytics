@@ -44,7 +44,7 @@ def getLichessGames(url, target):
 #Download the chess.com archive
 def download_archive(url, target):
     games = get(url)['games']
-    print('Starting work on %s...' % target)
+    print('Starting work on %s...' % url)
 
     for game in games:
         gameId = 0
