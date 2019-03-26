@@ -1,4 +1,4 @@
-Loosely inspired by:
+Inspired by::
 
 (This Reddit thread)[https://www.reddit.com/r/chess/comments/9ifkaq/how_i_downloaded_all_my_chesscom_games_using/?utm_source=share&utm_medium=mweb&_branch_match_id=567551054087201325]
 
